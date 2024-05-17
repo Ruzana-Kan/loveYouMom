@@ -1,0 +1,11 @@
+from turtle import*
+color("red")
+begin_fill()
+pensize(1)
+left(60)
+forward(143)
+circle(60,210)
+right(150)
+circle(60,210)
+forward(143)
+end_fill()
